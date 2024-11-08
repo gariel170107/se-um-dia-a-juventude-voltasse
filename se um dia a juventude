@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Poema: Se Um Dia a Juventude Voltasse</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #e0f7fa;
+            color: #333;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .poema-container {
+            max-width: 600px;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            text-align: center;
+        }
+        h1 {
+            color: #00796b;
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="poema-container">
+        <h1>Se Um Dia a Juventude Voltasse</h1>
+        <p>
+            Se um dia a juventude voltasse,<br>
+            Trazendo sorrisos e sonhos perdidos,<br>
+            Eu dançaria sob as estrelas,<br>
+            Com passos leves e despreocupados.
+        </p>
+        <p>
+            Sentiria o vento no rosto,<br>
+            E o tempo deixaria de importar,<br>
+            Pois na alma, eterna criança,<br>
+            A vida voltaria a brilhar.
+        </p>
+        <p>
+            Se a juventude um dia voltasse,<br>
+            Eu ouviria o riso do passado,<br>
+            E, com a pureza dos dias dourados,<br>
+            A chama da vida seria renovada.
+        </p>
+    </div>
+</body>
+</html>
